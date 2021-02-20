@@ -34,7 +34,7 @@ Then copy paste the http generated in your browser
   External URL: http://
 ```
 
-## Build with
+## Built with
 
 - Python = The core of all the project, all the libraries are made in Python. Python 3.9.1
 
