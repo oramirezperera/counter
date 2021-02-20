@@ -36,11 +36,13 @@ Then copy paste the http generated in your browser
 
 ## Build with
 
-- Python = The core of all the project, all the libraries are made in Python
+- Python = The core of all the project, all the libraries are made in Python. Python 3.9.1
 
-- Streamlit = The library to make web apps focused on Machine Learning and Data Science.
+- Streamlit = The library to make web apps focused on Machine Learning and Data Science. Streamlit 0.76.0
 
-- Altair = Used to show the bar chart.
+- Altair = Used to show the bar chart. Altair 4.1.0
+
+- Pandas = Used to manipulate the data. Pandas 1.2.2
 
 ## License
 
